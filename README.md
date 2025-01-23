@@ -1,4 +1,4 @@
-# File_Header_Encryptor-FHE-
+# File Header Encryptor（FHE）
 File Header Encryptor (FHE) 是一款用于加解密文件的工具，通过修改文件的头部信息来实现加密效果。与传统的加密方法不同，FHE 通过修改文件的前几个字节来改变文件内容，从而对文件进行保护。这种加密方式既简单又高效，能够有效保护文件内容的安全。
 
 主要功能：
